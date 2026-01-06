@@ -1,5 +1,5 @@
 ## Title of the Project
-CONTROLLING A SYSTEM WITH GEASTURE AND HANF TRACKING
+CONTROLLING A SYSTEM WITH GESTURE AND HANd TRACKING
 
 ## About
 <!--Detailed Description about the project-->
